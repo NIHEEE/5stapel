@@ -20,6 +20,3 @@ async def on_message(message):
 client.run('MTA2NzExNTgzNTEwMzEyOTcxMQ.GNNQRK.PMnIGcHHoc6c6_bmWOJvL4_nSEVVd750-baYJM')
 
 
-
-
-

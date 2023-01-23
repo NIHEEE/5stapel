@@ -17,11 +17,11 @@ async def on_message(message):
         return
 
     test = message.lower()
-    prin(test
+    prin(test)
     if 'drachen' in message.content:
         await message.channel.send(' lord')
 
-client.run('MTA1MzgxOTExNTIyOTQyNTgwNg.GOqe1e.b1-nkJpgtlpQga6t6F3_jpwiPE1CHP3M7CjJPA')
+client.run("MTA1MzgxOTExNTIyOTQyNTgwNg.GOqe1e.b1-nkJpgtlpQga6t6F3_jpwiPE1CHP3M7CjJPA")
 
 
 
